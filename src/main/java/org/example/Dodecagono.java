@@ -1,7 +1,7 @@
 package org.example;
 
 public class Dodecagono extends Geometricas{
-    Double longitud;
+    Double longitud; //YA VALE O NO
 
     public Dodecagono(Double longitud, int nlados, String nombre) {
         super(nombre, nlados);
