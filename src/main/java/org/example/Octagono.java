@@ -1,5 +1,5 @@
 package org.example;
-
+// figura geometrica de 8 lados
 public class Octagono extends Geometricas{
     Double lado;
     Double apotema;
