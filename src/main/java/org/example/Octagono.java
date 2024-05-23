@@ -10,6 +10,8 @@ public class Octagono extends Geometricas{
         this.apotema = apotema;
     }
 
+    //getteres and setters
+
     public Double getLado() {
         return lado;
     }
